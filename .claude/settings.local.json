@@ -79,7 +79,10 @@
       "mcp__chrome-devtools__fill",
       "mcp__chrome-devtools__navigate_page_history",
       "mcp__chrome-devtools__new_page",
-      "Bash(git log:*)"
+      "Bash(git log:*)",
+      "Bash(fd:*)",
+      "Read(//home/mlj/utono/xc/**)",
+      "Read(//home/mlj/.config/mpv/**)"
     ],
     "deny": []
   }
