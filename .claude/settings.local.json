@@ -82,8 +82,11 @@
       "Bash(git log:*)",
       "Bash(fd:*)",
       "Read(//home/mlj/utono/xc/**)",
-      "Read(//home/mlj/.config/mpv/**)"
+      "Read(//home/mlj/.config/mpv/**)",
+      "Edit(.claude/**)",
+      "Write(.claude/**)"
     ],
-    "deny": []
+    "deny": [],
+    "defaultMode": "bypassPermissions"
   }
 }
