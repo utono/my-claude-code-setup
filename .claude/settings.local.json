@@ -83,8 +83,7 @@
       "Bash(fd:*)",
       "Read(//home/mlj/utono/xc/**)",
       "Read(//home/mlj/.config/mpv/**)",
-      "Edit(.claude/**)",
-      "Write(.claude/**)"
+      "Edit(.claude/**)"
     ],
     "deny": [],
     "defaultMode": "bypassPermissions"
